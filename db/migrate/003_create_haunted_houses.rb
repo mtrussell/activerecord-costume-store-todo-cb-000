@@ -1,5 +1,5 @@
 # Create your haunted_houses migration here
-class HauntedHouses < ActiveRecord::Migration
+class CreateHauntedHouses < ActiveRecord::Migration
   def change
   end
 end
