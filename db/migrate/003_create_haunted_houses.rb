@@ -8,7 +8,7 @@ class CreateHauntedHouses < ActiveRecord::Migration
       :price
       :opening_date
       :closing_date
-      :long_long_description
+      :description
     end
   end
 end
